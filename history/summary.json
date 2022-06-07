@@ -40,19 +40,19 @@
     "url": "https://idea.ncu.edu.tw/",
     "icon": "https://favicons.githubusercontent.com/idea.ncu.edu.tw",
     "slug": "idea-ncu",
-    "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
-    "time": 1649,
-    "timeDay": 1649,
-    "timeWeek": 1649,
-    "timeMonth": 1649,
-    "timeYear": 1649,
+    "status": "up",
+    "uptime": "68.37%",
+    "uptimeDay": "68.37%",
+    "uptimeWeek": "68.37%",
+    "uptimeMonth": "68.37%",
+    "uptimeYear": "68.37%",
+    "time": 1557,
+    "timeDay": 1557,
+    "timeWeek": 1557,
+    "timeMonth": 1557,
+    "timeYear": 1557,
     "dailyMinutesDown": {
-      "2022-06-07": 0
+      "2022-06-07": 22
     }
   },
   {
@@ -97,19 +97,17 @@
     "icon": "https://favicons.githubusercontent.com/in.ncu.edu.tw",
     "slug": "pw-tsai",
     "status": "up",
-    "uptime": "91.13%",
-    "uptimeDay": "91.13%",
-    "uptimeWeek": "91.13%",
-    "uptimeMonth": "91.13%",
-    "uptimeYear": "91.13%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1346,
     "timeDay": 1346,
     "timeWeek": 1346,
     "timeMonth": 1346,
     "timeYear": 1346,
-    "dailyMinutesDown": {
-      "2022-06-07": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "C8763",
@@ -117,18 +115,16 @@
     "icon": "https://favicons.githubusercontent.com/kiritoc8763.org",
     "slug": "c8763",
     "status": "down",
-    "uptime": "91.12%",
-    "uptimeDay": "91.12%",
-    "uptimeWeek": "91.12%",
-    "uptimeMonth": "91.12%",
-    "uptimeYear": "91.12%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-06-07": 4
-    }
+    "dailyMinutesDown": {}
   }
 ]
