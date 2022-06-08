@@ -40,7 +40,7 @@
     "url": "https://idea.ncu.edu.tw/",
     "icon": "https://favicons.githubusercontent.com/idea.ncu.edu.tw",
     "slug": "idea-ncu",
-    "status": "up",
+    "status": "down",
     "uptime": "97.94%",
     "uptimeDay": "97.94%",
     "uptimeWeek": "97.94%",
@@ -52,6 +52,7 @@
     "timeMonth": 1731,
     "timeYear": 1731,
     "dailyMinutesDown": {
+      "2022-06-08": 0,
       "2022-06-07": 22
     }
   },
