@@ -22,9 +22,9 @@
     "url": "https://ctftime.org/",
     "icon": "https://favicons.githubusercontent.com/ctftime.org",
     "slug": "ctf-time",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1725,
     "timeMonth": 1693,
     "timeYear": 1693,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   },
   {
     "name": "idea NCU",
@@ -41,13 +43,13 @@
     "icon": "https://favicons.githubusercontent.com/idea.ncu.edu.tw",
     "slug": "idea-ncu",
     "status": "up",
-    "uptime": "62.54%",
+    "uptime": "63.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "62.54%",
-    "uptimeYear": "62.54%",
+    "uptimeMonth": "63.18%",
+    "uptimeYear": "63.18%",
     "time": 2171,
-    "timeDay": 2202,
+    "timeDay": 1979,
     "timeWeek": 2289,
     "timeMonth": 2171,
     "timeYear": 2171,
