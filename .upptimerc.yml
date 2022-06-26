@@ -14,9 +14,9 @@ sites:
   - name: Xyphuz
     url: https://wst24365888.github.io/
   - name: pw tsai
-    url: http://in.ncu.edu.tw/~pwtsai/
+    url: https://in.ncu.edu.tw/~pwtsai/
   - name: C8763
-    url: http://kiritoc8763.org
+    url: https://kiritoc8763.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
